@@ -13,5 +13,5 @@ This project is a **responsive landing page** built using **HTML & CSS**. It dem
 - CSS3 
 
 ## 🔗 Live Demo
-[View Project]()
+[View Project](https://med-software-mh.github.io/CodeSoft/Landing%20Page/)
  
